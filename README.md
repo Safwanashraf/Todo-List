@@ -10,10 +10,10 @@ A simple todo application built with React. This app allows users to create, upd
 
 ## Technologies Used  
 
-- [React](https://reactjs.org/)  
-- [React Router](https://reactrouter.com/) (if applicable)  
-- [CSS Modules / Styled Components](https://styled-components.com/)
-- [UUID](https://axios-http.com/)
+- **React**  
+- **React Router**
+- **CSS Modules / Styled Components**
+- **UUID**
 
 ## Features  
 
