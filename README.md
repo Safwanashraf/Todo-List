@@ -12,8 +12,8 @@ A simple todo application built with React. This app allows users to create, upd
 
 - [React](https://reactjs.org/)  
 - [React Router](https://reactrouter.com/) (if applicable)  
-- [CSS Modules / Styled Components](https://styled-components.com/) (or any other styling method you used)  
-- [UUID](https://axios-http.com/) (optional for any external API calls)  
+- [CSS Modules / Styled Components](https://styled-components.com/)
+- [UUID](https://axios-http.com/)
 
 ## Features  
 
